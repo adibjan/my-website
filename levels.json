@@ -1,0 +1,10 @@
+{
+    "levels": [
+        {"id": 1, "type": "treasure", "reward": 0.50},
+        {"id": 2, "type": "treasure", "reward": 0.50},
+        {"id": 21, "type": "combat", "reward": 1.00},
+        {"id": 41, "type": "traps", "reward": 2.00},
+        {"id": 61, "type": "puzzle", "reward": 3.00},
+        {"id": 81, "type": "books", "reward": 5.00}
+    ]
+}
